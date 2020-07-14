@@ -11,3 +11,17 @@
 /Users/moshfeghhamedani/RiderProjects/TestNinja/TestNinja/bin/Debug/EntityFramework.xml
 /Users/moshfeghhamedani/RiderProjects/TestNinja/TestNinja/bin/Debug/EntityFramework.SqlServer.xml
 /Users/moshfeghhamedani/RiderProjects/TestNinja/TestNinja/bin/Debug/Newtonsoft.Json.xml
+C:\Users\Alex\Documents\GitHub\TestNinja\TestNinja\bin\Debug\TestNinja.dll.config
+C:\Users\Alex\Documents\GitHub\TestNinja\TestNinja\bin\Debug\TestNinja.dll
+C:\Users\Alex\Documents\GitHub\TestNinja\TestNinja\bin\Debug\TestNinja.pdb
+C:\Users\Alex\Documents\GitHub\TestNinja\TestNinja\bin\Debug\EntityFramework.dll
+C:\Users\Alex\Documents\GitHub\TestNinja\TestNinja\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Alex\Documents\GitHub\TestNinja\TestNinja\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Alex\Documents\GitHub\TestNinja\TestNinja\bin\Debug\EntityFramework.xml
+C:\Users\Alex\Documents\GitHub\TestNinja\TestNinja\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Alex\Documents\GitHub\TestNinja\TestNinja\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Alex\Documents\GitHub\TestNinja\TestNinja\obj\Debug\TestNinja.csprojAssemblyReference.cache
+C:\Users\Alex\Documents\GitHub\TestNinja\TestNinja\obj\Debug\TestNinja.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Documents\GitHub\TestNinja\TestNinja\obj\Debug\TestNinja.csproj.CopyComplete
+C:\Users\Alex\Documents\GitHub\TestNinja\TestNinja\obj\Debug\TestNinja.dll
+C:\Users\Alex\Documents\GitHub\TestNinja\TestNinja\obj\Debug\TestNinja.pdb
