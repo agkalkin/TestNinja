@@ -28,3 +28,8 @@ C:\Users\Alex\Documents\GitHub\TestNinja\TestNinja.UnitTests\bin\Debug\Mono.Ceci
 C:\Users\Alex\Documents\GitHub\TestNinja\TestNinja.UnitTests\bin\Debug\Mono.Cecil.Rocks.dll
 C:\Users\Alex\Documents\GitHub\TestNinja\TestNinja.UnitTests\bin\Debug\nunit.framework.dll
 C:\Users\Alex\Documents\GitHub\TestNinja\TestNinja.UnitTests\bin\Debug\nunit.framework.xml
+C:\Users\Alex\Documents\GitHub\TestNinja\TestNinja.UnitTests\bin\Debug\Castle.Core.dll
+C:\Users\Alex\Documents\GitHub\TestNinja\TestNinja.UnitTests\bin\Debug\Moq.dll
+C:\Users\Alex\Documents\GitHub\TestNinja\TestNinja.UnitTests\bin\Debug\Castle.Core.xml
+C:\Users\Alex\Documents\GitHub\TestNinja\TestNinja.UnitTests\bin\Debug\Moq.pdb
+C:\Users\Alex\Documents\GitHub\TestNinja\TestNinja.UnitTests\bin\Debug\Moq.xml
